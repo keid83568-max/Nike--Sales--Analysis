@@ -9,7 +9,7 @@ This project provides a comprehensive analysis of Nike's sales performance. Usin
 * **Excel:** Source data handling.
 
 ## 🖼️ Dashboard Preview
-![Nike Dashboard](Untitled design (4).png)
+![Nike Dashboard](Untitled%20design%20(4).png)
 
 ---
 *Note: You can find the raw data in the `Nike_Sales_Uncleaned.csv` file above.*
